@@ -58,6 +58,8 @@ button {
   margin: 20px auto;
 }
 
+button:disabled {background:#ccc;}
+
 h1 {
   text-align: center;
   font-size: 40px;
